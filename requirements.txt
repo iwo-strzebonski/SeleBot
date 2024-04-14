@@ -8,7 +8,7 @@ colorama==0.4.4
 cryptography==42.0.4
 et-xmlfile==1.0.1
 h11==0.12.0
-idna==3.3
+idna==3.7
 isort==5.10.1
 lazy-object-proxy==1.7.1
 mccabe==0.6.1
