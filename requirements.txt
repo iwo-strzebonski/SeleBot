@@ -2,7 +2,7 @@ astroid==2.9.3
 async-generator==1.10
 attrs==21.4.0
 brotlipy==0.7.0
-certifi==2023.7.22
+certifi==2024.7.4
 cffi==1.15.0
 colorama==0.4.4
 cryptography==42.0.4
